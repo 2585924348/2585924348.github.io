@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://2585924348.github.io
+url: https://pengzou1.github.io
 date_format: "ordinal"
 title: rookie's blog
 subtitle: "公众号："
@@ -11,7 +11,7 @@ keywords: 码志
 timezone: Asia/Hangzhou
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: 2585924348/2585924348.github.io
+repository: pengzou1/pengzou1.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -52,7 +52,7 @@ highlight_theme: github
 author: Peng Zou
 organization: 
 organization_url: 
-github_username: 2585924348
+github_username: pengzou1
 location: Hangzhou, China
 email: 2585924348@qq.com
 
@@ -138,7 +138,7 @@ comments_provider: gitalk
 #         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: 2585924348
+    owner: pengzou1
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
