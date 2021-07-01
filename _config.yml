@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://pengzou.github.io
+url: https://2585924348.github.io
 date_format: "ordinal"
 title: rookie's blog
 subtitle: "公众号："
@@ -11,7 +11,7 @@ keywords: 码志
 timezone: Asia/Hangzhou
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: 2585924348/pengzou.github.io
+repository: 2585924348/2585924348.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
