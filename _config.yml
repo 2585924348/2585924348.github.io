@@ -38,7 +38,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: rookie
+        image_alt: zukerperg
 # 压缩页面内容
 compress_html:
   clippings: all
